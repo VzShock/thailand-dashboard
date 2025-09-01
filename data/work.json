@@ -1,0 +1,139 @@
+{
+  "title": "Smart Remote Work Schedules in Thailand",
+  "description": "Pick a template each Sunday night, or remix blocks to match your next week’s priorities.",
+  "schedules": [
+    {
+      "id": "balanced-core-worker",
+      "title": "The Balanced Core Worker",
+      "icon": "⚖️",
+      "theme": "teal",
+      "blocks": [
+        {
+          "title": "Monday – Friday",
+          "titleColor": "teal",
+          "items": [
+            "💻 Work: 🇹🇭 13:00‑21:00 (🇫🇷 08:00‑16:00)",
+            "🌅 07:00‑09:00: Morning run / café breakfast",
+            "🌆 21:30‑23:00: Street‑food dinner or rooftop bar"
+          ]
+        },
+        {
+          "title": "Weekend",
+          "titleColor": "purple",
+          "items": [
+            "🛶 Day‑trip Saturday: Ayutthaya / Floating markets",
+            "🧘 Sunday slow‑start: Brunch + spa or park stroll"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "split-shift-explorer",
+      "title": "The Split‑Shift Explorer",
+      "icon": "🌴",
+      "theme": "emerald",
+      "blocks": [
+        {
+          "title": "Monday – Thursday",
+          "titleColor": "green",
+          "items": [
+            "💻 Work Block 1: 🇹🇭 07:00‑11:00 (🇫🇷 02:00‑06:00)",
+            "🚴 11:00‑17:00: Explore cafés, markets, or day‑trips",
+            "💻 Work Block 2: 🇹🇭 19:00‑22:00 (🇫🇷 14:00‑17:00)"
+          ]
+        },
+        {
+          "title": "Friday",
+          "titleColor": "orange",
+          "items": [
+            "💻 Wrap‑up: 🇹🇭 07:00‑11:00",
+            "🚌 Afternoon bus/train to weekend destination"
+          ]
+        },
+        {
+          "title": "Weekend",
+          "titleColor": "purple",
+          "items": [
+            "🏝️ 48‑hour micro‑getaway: Islands / mountains",
+            "📸 Minimal check‑ins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "focus-sprint-adventurer",
+      "title": "The Focus‑Sprint Adventurer",
+      "icon": "🚀",
+      "theme": "cyan",
+      "blocks": [
+        {
+          "title": "Work Sprint (Mon‑Thu)",
+          "titleColor": "cyan",
+          "items": [
+            "💻 Deep Work: 🇹🇭 09:00‑19:00 (🇫🇷 04:00‑14:00)",
+            "🥗 13:00: Quick Thai lunch",
+            "🛑 Evening: Gym / massage within residence"
+          ]
+        },
+        {
+          "title": "Light Friday",
+          "titleColor": "teal",
+          "items": [
+            "💻 🇹🇭 09:00‑13:00: Stand‑ups & wrap‑up",
+            "✈️ 14:00‑18:00: Travel to new province"
+          ]
+        },
+        {
+          "title": "Adventure Weekend",
+          "titleColor": "orange",
+          "items": [
+            "🧗 Full send: Rock‑climbing / scuba / trekking",
+            "🧑‍💻 Optional 30‑min Sunday evening planning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-riser-wanderer",
+      "title": "The Early‑Riser Wanderer",
+      "icon": "🌅",
+      "theme": "amber",
+      "blocks": [
+        {
+          "title": "Daily",
+          "titleColor": "amber",
+          "items": [
+            "🌄 05:00‑08:00: Temples or sunrise markets",
+            "💻 Work: 🇹🇭 08:30‑16:30 (🇫🇷 03:30‑11:30)",
+            "🏖️ 17:00‑21:00: Sunset cruise / dinner / night market"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "night-owl-creative",
+      "title": "The Night‑Owl Creative",
+      "icon": "🌙",
+      "theme": "indigo",
+      "blocks": [
+        {
+          "title": "Monday – Friday",
+          "titleColor": "indigo",
+          "items": [
+            "🌇 10:00‑15:00: Thai cooking class / co‑working social",
+            "💻 Work: 🇹🇭 15:00‑23:00 (🇫🇷 10:00‑18:00)",
+            "🌃 Post‑work: Chill lounge music, journal, late‑night snacks"
+          ]
+        },
+        {
+          "title": "Weekend",
+          "titleColor": "purple",
+          "items": [
+            "😴 Sleep‑in recovery",
+            "🎟️ Night‑market photography walks"
+          ]
+        }
+      ]
+    }
+  ]
+}

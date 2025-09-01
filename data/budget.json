@@ -1,0 +1,52 @@
+{
+  "title": "56-Day Budget Breakdown",
+  "categories": [
+    {
+      "label": "Accommodation",
+      "duration": "56 nights",
+      "range": "$1,120-2,240",
+      "height": "35%",
+      "details": "Budget: $20-40/night • Save with monthly rentals"
+    },
+    {
+      "label": "Food & Dining",
+      "duration": "$15-30/day",
+      "range": "$840-1,680",
+      "height": "30%",
+      "details": "Street food: $2-5 • Restaurant: $10-20 • Fine dining: $30+"
+    },
+    {
+      "label": "Activities",
+      "duration": "& Experiences",
+      "range": "$560-840",
+      "height": "20%",
+      "details": "Tours: $30-100 • Massages: $10-30 • Diving: $60-100"
+    },
+    {
+      "label": "Transport",
+      "duration": "& Transfers",
+      "range": "$500-700",
+      "height": "15%",
+      "details": "Flights: $50-150 • Ferries: $10-30 • Local: $2-10/day"
+    },
+    {
+      "label": "Coworking",
+      "duration": "& Internet",
+      "range": "$450-600",
+      "height": "12%",
+      "details": "Day pass: $10-20 • Monthly: $100-200 • Cafe: $2-5"
+    },
+    {
+      "label": "Shopping",
+      "duration": "& Extras",
+      "range": "$450-540",
+      "height": "10%",
+      "details": "Clothes: $5-20/item • Souvenirs: $2-50 • Custom suit: $200+"
+    }
+  ],
+  "total": {
+    "range": "$3,920 - $5,600",
+    "daily": "$70-100 per day for couple"
+  },
+  "tips": "Book accommodation monthly for 30-40% discount | Eat street food for lunch ($2-3) | Use Grab for transport | Buy SIM at airport (300 THB/month unlimited)"
+}

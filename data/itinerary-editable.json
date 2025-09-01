@@ -1,0 +1,396 @@
+{
+  "id": "mdtb35k10aqz0w9ok7lf",
+  "title": "55-Night Thailand Journey (Sep 3 – Oct 28, 2025)",
+  "totalNights": 55,
+  "phases": [
+    {
+      "id": "mdtb35k1i2ua59e1oh",
+      "number": 1,
+      "title": "Bangkok Landing",
+      "dates": "Sep 3-9 (6 nights)",
+      "arrivalDay": "Wed Sep 3",
+      "departureDay": "Tue Sep 9",
+      "details": [
+        "Visa processing & setup",
+        "Temples, street-food tours",
+        "Base: P.K. Garden Home",
+        "Cowork: WeWork Sukhumvit"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k1vvoyhoaiub",
+        "to": "Chiang Mai",
+        "options": [
+          {
+            "id": "mdtb35k18s5v0l31owx",
+            "type": "✈️ Fast",
+            "method": "AirAsia/Lion (DMK→CNX)",
+            "duration": "1h 15m",
+            "cost": "€30"
+          }
+        ],
+        "recommendation": "Take evening train for experience + save hotel night"
+      }
+    },
+    {
+      "id": "mdtb35k13vjd3a26ztb",
+      "number": 2,
+      "title": "Chiang Mai",
+      "dates": "Sep 10-14 (4 nights)",
+      "arrivalDay": "Wed Sep 10",
+      "departureDay": "Sun Sep 14",
+      "details": [
+        "Old City cafés & temples",
+        "Doi Suthep sunset",
+        "Saturday Walking Street",
+        "Cowork: Yellow Coworking"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k19koom6w9069",
+        "to": "Pai",
+        "options": [
+          {
+            "id": "mdtb35k1qh4l6w2r0br",
+            "type": "🚐 Standard",
+            "method": "Minivan via 762 curves",
+            "duration": "3h",
+            "cost": "€5"
+          },
+          {
+            "id": "mdtb35k1roozxzbzo",
+            "type": "🛵 Adventure",
+            "method": "Self-drive scooter",
+            "duration": "4h",
+            "cost": "€8/day rental"
+          }
+        ],
+        "recommendation": "Morning minivan to avoid motion sickness"
+      }
+    },
+    {
+      "id": "mdtb35k1khm8z97ts8f",
+      "number": 3,
+      "title": "Pai",
+      "dates": "Sep 14-18 (4 nights)",
+      "arrivalDay": "Sun Sep 14",
+      "departureDay": "Thu Sep 18",
+      "details": [
+        "Pai Canyon sunrise",
+        "Hot springs & waterfalls",
+        "Night market vibes",
+        "Cowork: Pai Cowork & Cafe"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k1kv6bys1a8ls",
+        "to": "Koh Samui",
+        "options": [
+          {
+            "id": "mdtb35k1nfngptuthdd",
+            "type": "✈️ Direct",
+            "method": "Van to CNX + Fly CNX→USM",
+            "duration": "5h total",
+            "cost": "€80-100"
+          },
+          {
+            "id": "mdtb35k1l8959d4zcnd",
+            "type": "🚐🚆🛥️ Budget",
+            "method": "Van→CNX, Train→Surat, Ferry→Samui",
+            "duration": "24h",
+            "cost": "€45"
+          }
+        ],
+        "recommendation": "Fly to maximize island time"
+      }
+    },
+    {
+      "id": "mdtb35k1hixqpvwb2n",
+      "number": 4,
+      "title": "Koh Samui",
+      "dates": "Sep 18-24 (6 nights)",
+      "arrivalDay": "Thu Sep 18",
+      "departureDay": "Wed Sep 24",
+      "details": [
+        "Beach-work-beach rhythm",
+        "Ang Thong Marine Park tour",
+        "Fisherman's Village Friday market",
+        "Cowork: Mantra Work Lounge"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k1tushp9dii39",
+        "to": "Koh Tao",
+        "options": [
+          {
+            "id": "mdtb35k11xh9otqs59d",
+            "type": "🛥️ Fast",
+            "method": "Lomprayah catamaran",
+            "duration": "1h 45m",
+            "cost": "€18"
+          },
+          {
+            "id": "mdtb35k1knz3e0dbek",
+            "type": "🛥️ Slow",
+            "method": "Night boat",
+            "duration": "4h",
+            "cost": "€12"
+          }
+        ],
+        "recommendation": "Morning catamaran for diving same day"
+      }
+    },
+    {
+      "id": "mdtb35k1abonngk9dfo",
+      "number": 5,
+      "title": "Koh Tao",
+      "dates": "Sep 24-29 (5 nights)",
+      "arrivalDay": "Wed Sep 24",
+      "departureDay": "Mon Sep 29",
+      "details": [
+        "Open-water certification",
+        "Viewpoint hikes",
+        "Sairee Beach sunsets",
+        "Cowork: Tao Hub desks"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k1zmtnyy5jdf",
+        "to": "Khao Sok",
+        "options": [
+          {
+            "id": "mdtb35k1zcwy49gw1t8",
+            "type": "🛥️🚐 Direct",
+            "method": "Lomprayah to Chumphon + minivan",
+            "duration": "6h",
+            "cost": "€30"
+          },
+          {
+            "id": "mdtb35k1aics41dnsm",
+            "type": "🛥️🚌 Budget",
+            "method": "Night boat to Surat + local bus",
+            "duration": "8h",
+            "cost": "€22"
+          }
+        ],
+        "recommendation": "Direct connection for comfort"
+      }
+    },
+    {
+      "id": "mdtb35k172zhtmnaldq",
+      "number": 6,
+      "title": "Khao Sok National Park",
+      "dates": "Sep 29-Oct 3 (4 nights)",
+      "arrivalDay": "Mon Sep 29",
+      "departureDay": "Fri Oct 3",
+      "details": [
+        "Floating raft house stay",
+        "Cheow Lan Lake cruise",
+        "Night safari",
+        "4G hotspot only (digital detox)"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k11ntvqtw0zjw",
+        "to": "Krabi/Railay",
+        "options": [
+          {
+            "id": "mdtb35k1zgyvqi45az",
+            "type": "🚐 Direct",
+            "method": "Minivan to Ao Nang",
+            "duration": "2h 30m",
+            "cost": "€10"
+          },
+          {
+            "id": "mdtb35k1rinlws210c",
+            "type": "🚌 Local",
+            "method": "Bus + songthaew",
+            "duration": "3h 30m",
+            "cost": "€7"
+          }
+        ],
+        "recommendation": "Direct van, then longtail to Railay"
+      }
+    },
+    {
+      "id": "mdtb35k1eshttx7j24n",
+      "number": 7,
+      "title": "Krabi / Railay",
+      "dates": "Oct 3-7 (4 nights)",
+      "arrivalDay": "Fri Oct 3",
+      "departureDay": "Tue Oct 7",
+      "details": [
+        "Railay rock climbing",
+        "Emerald Pool & Hot Springs",
+        "4 Island tour",
+        "Café Wi-Fi / KoHub pop-ups"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k10qp0yi4kkl",
+        "to": "Koh Phangan",
+        "options": [
+          {
+            "id": "mdtb35k1uosu9f1y1s",
+            "type": "🚐🛥️ Standard",
+            "method": "Van + ferry via Don Sak",
+            "duration": "5h",
+            "cost": "€30"
+          },
+          {
+            "id": "mdtb35k1za4alk2fvd",
+            "type": "🚌🛥️ Overnight",
+            "method": "Bus to Surat + morning ferry",
+            "duration": "8h",
+            "cost": "€20"
+          }
+        ],
+        "recommendation": "Arrive afternoon for Full Moon prep!"
+      }
+    },
+    {
+      "id": "mdtb35k1u3bhwrmslxk",
+      "number": 8,
+      "title": "Koh Phangan (Full Moon)",
+      "dates": "Oct 7-13 (6 nights)",
+      "arrivalDay": "Tue Oct 7 (Full Moon night!)",
+      "departureDay": "Mon Oct 13",
+      "details": [
+        "Full Moon Party – Oct 7",
+        "Recovery at Zen Beach",
+        "Secret beaches exploration",
+        "Cowork: Beachub / Remote & Digital"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k11vxix9hfhcj",
+        "to": "Trang/Koh Mook",
+        "options": [
+          {
+            "id": "mdtb35k1u7rzn9rnne",
+            "type": "✈️ Quick",
+            "method": "Ferry + fly Surat→Trang",
+            "duration": "4h",
+            "cost": "€60"
+          },
+          {
+            "id": "mdtb35k17c1iqtu1qyo",
+            "type": "🛥️🚌 Scenic",
+            "method": "Ferry + bus to Trang + boat",
+            "duration": "7h",
+            "cost": "€25"
+          }
+        ],
+        "recommendation": "Budget route - more authentic"
+      }
+    },
+    {
+      "id": "mdtb35k17h6t1sqxw1c",
+      "number": 9,
+      "title": "Trang Islands (Koh Mook/Kradan)",
+      "dates": "Oct 13-19 (6 nights)",
+      "arrivalDay": "Mon Oct 13",
+      "departureDay": "Sun Oct 19",
+      "details": [
+        "Emerald Cave kayaking",
+        "Sand-bar walks",
+        "Underwater wedding spot",
+        "Remote bungalow life"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k101amw7dk8jep",
+        "to": "Prachuap Khiri Khan",
+        "options": [
+          {
+            "id": "mdtb35k12khe7rt46ua",
+            "type": "🚂 Coastal",
+            "method": "Train from Trang",
+            "duration": "5h",
+            "cost": "€9"
+          },
+          {
+            "id": "mdtb35k1v17at3t4au",
+            "type": "🚐 Direct",
+            "method": "Minivan via Hua Hin",
+            "duration": "6h",
+            "cost": "€15"
+          }
+        ],
+        "recommendation": "Train for coastal views"
+      }
+    },
+    {
+      "id": "mdtb35k1zsd0o7vfma9",
+      "number": 10,
+      "title": "Prachuap Khiri Khan",
+      "dates": "Oct 19-24 (5 nights)",
+      "arrivalDay": "Sun Oct 19",
+      "departureDay": "Fri Oct 24",
+      "details": [
+        "Authentic Thai beach town",
+        "Ao Manao military beach",
+        "Mirror Temple visits",
+        "Low-key café Wi-Fi work"
+      ],
+      "nextTransport": {
+        "id": "mdtb35k1sxkuoy4nbl",
+        "to": "Bangkok",
+        "options": [
+          {
+            "id": "mdtb35k1ydffjgmi09",
+            "type": "🚂 Express",
+            "method": "Express train",
+            "duration": "4h 40m",
+            "cost": "€15"
+          },
+          {
+            "id": "mdtb35k14fmyz6ucico",
+            "type": "🚐 Van",
+            "method": "Air-con minivan",
+            "duration": "5h",
+            "cost": "€12"
+          }
+        ],
+        "recommendation": "Morning train for Bangkok lunch"
+      }
+    },
+    {
+      "id": "mdtb35k1jqryfyccnno",
+      "number": 11,
+      "title": "Bangkok Farewell",
+      "dates": "Oct 24-28 (4 nights)",
+      "arrivalDay": "Fri Oct 24",
+      "departureDay": "Tue Oct 28 (evening flight)",
+      "details": [
+        "Rooftop bar crawl",
+        "Chatuchak weekend shopping",
+        "Project wrap-up",
+        "Base: Silom/Ari Airbnb"
+      ],
+      "finalTransport": {
+        "id": "mdtb35k1gaapdruum2",
+        "to": "Airport (BKK)",
+        "options": [
+          {
+            "id": "mdtb35k1higyh9x5p94",
+            "type": "🚕 Comfort",
+            "method": "Grab/taxi",
+            "duration": "45m",
+            "cost": "€10-15"
+          },
+          {
+            "id": "mdtb35k1sctzc32h31",
+            "type": "🚆 Train",
+            "method": "Airport Rail Link",
+            "duration": "30m",
+            "cost": "€1.50"
+          }
+        ],
+        "recommendation": "Taxi with luggage, arrive 3h early"
+      }
+    }
+  ],
+  "stats": {
+    "totalDays": 56,
+    "totalNights": 55,
+    "destinations": 11,
+    "flightLegs": 2,
+    "islandTime": 21,
+    "workDays": 38,
+    "vacationDays": 18
+  },
+  "lastModified": "2025-08-07T23:20:08.396Z",
+  "version": 30
+}

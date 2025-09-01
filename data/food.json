@@ -1,0 +1,168 @@
+{
+  "title": "Thai Food Adventure Guide",
+  "description": "Your culinary bucket list with locations and prices!",
+  "foods": [
+    {
+      "name": "🍜 Pad Thai",
+      "location": "📍 Thipsamai (Bangkok Old Town)",
+      "price": "💰 60-150 THB ($2-5)",
+      "note": "Best: Ghost Gate Pad Thai"
+    },
+    {
+      "name": "🥗 Som Tum (Papaya Salad)",
+      "location": "📍 Som Tam Nua (Siam Square)",
+      "price": "💰 80-120 THB ($2.50-4)",
+      "note": "Spice level: Start mild!"
+    },
+    {
+      "name": "🥭 Mango Sticky Rice",
+      "location": "📍 Mae Varee (Thonglor)",
+      "price": "💰 100-150 THB ($3-5)",
+      "note": "Peak season: April-May"
+    },
+    {
+      "name": "🍛 Tom Yum Goong",
+      "location": "📍 P'Aor (Thonglor)",
+      "price": "💰 120-200 THB ($4-6)",
+      "note": "Classic spicy shrimp soup"
+    },
+    {
+      "name": "🥘 Massaman Curry",
+      "location": "📍 Krua Apsorn (Samsen Road)",
+      "price": "💰 150-250 THB ($5-8)",
+      "note": "Rich and slightly sweet"
+    },
+    {
+      "name": "🍳 Pad Krapow",
+      "location": "📍 Jay Fai (Mahachai Road)",
+      "price": "💰 80-150 THB ($2.50-5)",
+      "note": "Thai basil stir-fry with egg"
+    },
+    {
+      "name": "🍢 Grilled Fish",
+      "location": "📍 Krua Khun Mae (Khlong San)",
+      "price": "💰 200-400 THB ($6-12)",
+      "note": "Whole fish with herbs"
+    },
+    {
+      "name": "🍜 Boat Noodles",
+      "location": "📍 Victory Monument",
+      "price": "💰 15-25 THB ($0.50-1)",
+      "note": "Tiny bowls, big flavors"
+    },
+    {
+      "name": "🍲 Khao Soi (Chiang Mai Noodles)",
+      "location": "📍 Khao Soi Khun Yai (Chiang Mai)",
+      "price": "💰 50-100 THB ($1.50-3)",
+      "note": "Northern curry noodle soup with crispy noodles"
+    },
+    {
+      "name": "🍗 Gai Yang (Grilled Chicken)",
+      "location": "📍 Sabai Jai Gai Yang (Ekkamai)",
+      "price": "💰 80-160 THB ($2.50-5)",
+      "note": "Marinated and charcoal-grilled; best with sticky rice"
+    },
+    {
+      "name": "🥩 Larb (Minced Meat Salad)",
+      "location": "📍 Larb Bpet Yasothon (Silom)",
+      "price": "💰 60-90 THB ($2-3)",
+      "note": "Zesty Isan minced meat salad (spicy!)"
+    },
+    {
+      "name": "🍢 Satay Skewers",
+      "location": "📍 Yaowarat Street Stalls (Bangkok)",
+      "price": "💰 50-100 THB ($1.50-3)",
+      "note": "Grilled skewers (usually pork or chicken) with peanut sauce"
+    },
+    {
+      "name": "🍡 Sai Krok Isan (Isan Sausage)",
+      "location": "📍 Chang Phueak Night Market (Chiang Mai)",
+      "price": "💰 20-50 THB ($0.50-1.50)",
+      "note": "Garlicky fermented pork sausage, often served with ginger"
+    },
+    {
+      "name": "🍜 Yen Ta Fo (Pink Noodle Soup)",
+      "location": "📍 Jay Jia Yentafo (Silom)",
+      "price": "💰 40-60 THB ($1-2)",
+      "note": "Bright pink broth from fermented tofu with fish balls"
+    },
+    {
+      "name": "🍚 Khao Man Gai (Chicken Rice)",
+      "location": "📍 Go-Ang Pratunam (Bangkok)",
+      "price": "💰 40-70 THB ($1-2)",
+      "note": "Hainanese-style poached chicken and rice with spicy sauce"
+    },
+    {
+      "name": "🦀 Crab Omelette",
+      "location": "📍 Jay Fai (Bangkok)",
+      "price": "💰 1000-1500 THB ($30-45)",
+      "note": "Legendary crab-stuffed omelette (Michelin-starred)"
+    },
+    {
+      "name": "🦪 Oyster Omelette (Hoy Tod)",
+      "location": "📍 Nai Mong Hoy Tod (Chinatown)",
+      "price": "💰 80-100 THB ($2.50-3)",
+      "note": "Crispy fried egg omelette loaded with fresh oysters"
+    },
+    {
+      "name": "🍝 Pad See Ew",
+      "location": "📍 Street Food Stalls (Yaowarat)",
+      "price": "💰 40-60 THB ($1-2)",
+      "note": "Soy sauce stir-fried flat noodles with chicken & broccoli"
+    },
+    {
+      "name": "🌶️ Pad Kee Mao (Drunken Noodles)",
+      "location": "📍 Silom Soi 20 (Bangkok)",
+      "price": "💰 50-80 THB ($1.50-2.50)",
+      "note": "Spicy flat noodles with holy basil and chili"
+    },
+    {
+      "name": "🍛 Green Curry (Gaeng Keow Wan)",
+      "location": "📍 Blue Elephant (Bangkok)",
+      "price": "💰 150-300 THB ($5-10)",
+      "note": "Sweet-spicy green curry with coconut milk and basil"
+    },
+    {
+      "name": "🥘 Panang Curry",
+      "location": "📍 Local Eatery (Nationwide)",
+      "price": "💰 120-200 THB ($4-6)",
+      "note": "Thick, creamy curry with peanuts and kaffir lime"
+    },
+    {
+      "name": "🍢 Sai Ua (Chiang Mai Sausage)",
+      "location": "📍 Warorot Market (Chiang Mai)",
+      "price": "💰 50-100 THB ($1.50-3)",
+      "note": "Spiced herbal pork sausage from the North"
+    },
+    {
+      "name": "🍤 Hokkien Mee",
+      "location": "📍 Mee Ton Poe (Phuket)",
+      "price": "💰 70-80 THB ($2-3)",
+      "note": "Phuket's famous thick egg noodles stir-fried with seafood"
+    },
+    {
+      "name": "🍨 Coconut Ice Cream",
+      "location": "📍 Chatuchak Market (Bangkok)",
+      "price": "💰 50-70 THB ($1.50-2)",
+      "note": "Served in a coconut shell with assorted toppings"
+    },
+    {
+      "name": "🥞 Banana Roti",
+      "location": "📍 Khao San Road (Bangkok)",
+      "price": "💰 40-80 THB ($1-2.50)",
+      "note": "Pan-fried crepe filled with banana & drizzled with condensed milk"
+    },
+    {
+      "name": "🍈 Durian (King of Fruits)",
+      "location": "📍 Or Tor Kor Market (Bangkok)",
+      "price": "💰 150-300 THB ($5-10)",
+      "note": "Notorious spiky fruit – try if you dare!"
+    },
+    {
+      "name": "🍖 Khao Kha Moo (Pork Leg Rice)",
+      "location": "📍 Chang Phueak Night Market (Chiang Mai)",
+      "price": "💰 50-70 THB ($1.50-2)",
+      "note": "Tender braised pork leg on rice with pickled mustard greens"
+    }
+  ]
+}

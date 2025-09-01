@@ -1,0 +1,75 @@
+{
+  "title": "Shopping Paradise Guide",
+  "description": "From night markets to luxury malls - find those perfect Thai treasures!",
+  "locations": [
+    {
+      "name": "Chatuchak Weekend Market",
+      "type": "Mega Market",
+      "location": "📍 Bangkok",
+      "hours": "🕐 Sat-Sun 9 AM-6 PM",
+      "description": "✨ 15,000+ stalls: clothes, art, antiques, pets",
+      "tip": "💡 Go early morning to beat heat & crowds. Bargain 30-50% off asking price!"
+    },
+    {
+      "name": "Platinum Fashion Mall",
+      "type": "Wholesale Fashion",
+      "location": "📍 Pratunam, Bangkok",
+      "hours": "🕐 Daily 8 AM-8 PM",
+      "description": "✨ Trendy clothes at wholesale prices",
+      "tip": "💡 Buy 3+ items for wholesale rates. Perfect for summer dresses & shirts!"
+    },
+    {
+      "name": "Siam Paragon",
+      "type": "Luxury Mall",
+      "location": "📍 Siam, Bangkok",
+      "hours": "🕐 Daily 10 AM-10 PM",
+      "description": "✨ High-end brands, electronics, gourmet food court",
+      "tip": "💡 Tax refund available for purchases over 2,000 THB"
+    },
+    {
+      "name": "Chiang Mai Night Bazaar",
+      "type": "Night Market",
+      "location": "📍 Chang Khlan Road",
+      "hours": "🕐 Daily 6 PM-12 AM",
+      "description": "✨ Handicrafts, silk, hill tribe products",
+      "tip": "💡 Best place for authentic northern Thai crafts & textiles"
+    },
+    {
+      "name": "Walking Street Markets",
+      "type": "Local Markets",
+      "location": "📍 Every island & town",
+      "hours": "🕐 Usually 5 PM-10 PM",
+      "description": "✨ Beachwear, jewelry, local art",
+      "tip": "💡 Fisherman pants (150 THB), bikinis (200-400 THB), tank tops (100 THB)"
+    }
+  ],
+  "categories": {
+    "clothing": {
+      "title": "👕 Clothing",
+      "items": [
+        "Thai silk items",
+        "Elephant pants", 
+        "Custom-tailored suits",
+        "Beach dresses"
+      ]
+    },
+    "souvenirs": {
+      "title": "🎁 Souvenirs",
+      "items": [
+        "Coconut oils",
+        "Thai spices",
+        "Handmade soaps",
+        "Buddha figurines"
+      ]
+    },
+    "accessories": {
+      "title": "💍 Accessories",
+      "items": [
+        "Silver jewelry",
+        "Leather goods",
+        "Handwoven bags",
+        "Silk scarves"
+      ]
+    }
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "title": "Work Schedule Tracker",
+  "description": "Track your working days during the Thailand trip",
+  "schedule": {
+    "2025-09-03": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Landing",
+      "isTravelDay": true
+    },
+    "2025-09-04": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Bangkok Landing",
+      "isTravelDay": false
+    },
+    "2025-09-05": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Landing"
+    },
+    "2025-09-06": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Landing"
+    },
+    "2025-09-07": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Landing"
+    },
+    "2025-09-08": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Bangkok Landing"
+    },
+    "2025-09-09": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Chiang Mai",
+      "isTravelDay": true
+    },
+    "2025-09-10": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Chiang Mai"
+    },
+    "2025-09-11": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Chiang Mai"
+    },
+    "2025-09-12": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Chiang Mai"
+    },
+    "2025-09-13": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Chiang Mai"
+    },
+    "2025-09-14": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Pai",
+      "isTravelDay": true
+    },
+    "2025-09-15": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Pai"
+    },
+    "2025-09-16": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Pai"
+    },
+    "2025-09-17": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Pai"
+    },
+    "2025-09-18": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Samui",
+      "isTravelDay": true
+    },
+    "2025-09-19": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Samui",
+      "isTravelDay": false
+    },
+    "2025-09-20": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Samui"
+    },
+    "2025-09-21": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Samui"
+    },
+    "2025-09-22": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Samui"
+    },
+    "2025-09-23": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Samui"
+    },
+    "2025-09-24": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Samui"
+    },
+    "2025-09-25": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Samui"
+    },
+    "2025-09-26": {
+      "morning": false,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)",
+      "isTravelDay": true
+    },
+    "2025-09-27": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-09-28": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-09-29": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-09-30": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-01": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)",
+      "isTravelDay": false
+    },
+    "2025-10-02": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-03": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-04": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-05": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-06": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-07": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-08": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-09": {
+      "morning": false,
+      "afternoon": true,
+      "location": "Koh Phangan (Full Moon)"
+    },
+    "2025-10-10": {
+      "morning": false,
+      "afternoon": true,
+      "location": "Koh Tao",
+      "isTravelDay": true
+    },
+    "2025-10-11": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Koh Tao"
+    },
+    "2025-10-12": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Koh Tao"
+    },
+    "2025-10-13": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Tao"
+    },
+    "2025-10-14": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Koh Tao",
+      "isTravelDay": false
+    },
+    "2025-10-15": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Krabi / Railay",
+      "isTravelDay": true
+    },
+    "2025-10-16": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Krabi / Railay"
+    },
+    "2025-10-17": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Krabi / Railay"
+    },
+    "2025-10-18": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Krabi / Railay"
+    },
+    "2025-10-19": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Krabi / Railay"
+    },
+    "2025-10-20": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Khao Sok National Park",
+      "isTravelDay": true
+    },
+    "2025-10-21": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Khao Sok National Park"
+    },
+    "2025-10-22": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Khao Sok National Park"
+    },
+    "2025-10-23": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Farewell",
+      "isTravelDay": true
+    },
+    "2025-10-24": {
+      "morning": true,
+      "afternoon": true,
+      "location": "Bangkok Farewell"
+    },
+    "2025-10-25": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Bangkok Farewell"
+    },
+    "2025-10-26": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Bangkok Farewell"
+    },
+    "2025-10-27": {
+      "morning": true,
+      "afternoon": false,
+      "location": "Bangkok Farewell",
+      "isTravelDay": false
+    },
+    "2025-10-28": {
+      "morning": false,
+      "afternoon": false,
+      "location": "Bangkok Farewell",
+      "isTravelDay": true
+    }
+  }
+}

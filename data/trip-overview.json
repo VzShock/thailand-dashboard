@@ -1,0 +1,37 @@
+{
+  "title": "Mushroom & Chicken's Thailand Adventure",
+  "duration": "56 Days",
+  "dates": "Sep 3 - Oct 29, 2025",
+  "travelers": "Champido & Champipi",
+  "subtitle": "First Journey to Thailand!",
+  "flightDetails": {
+    "outbound": {
+      "date": "Sep 2-3",
+      "route": "CDG → AUH → BKK",
+      "duration": "20h 50m with layover"
+    },
+    "return": {
+      "date": "Oct 28-29", 
+      "route": "BKK → AUH → CDG",
+      "duration": "22h 20m with layover"
+    }
+  },
+  "journeyStats": {
+    "totalDays": 56,
+    "workDays": 38,
+    "vacationDays": 18,
+    "destinations": 9
+  },
+  "budgetOverview": {
+    "totalRange": "$3,920-5,600",
+    "dailyRange": "$70-100 per day",
+    "type": "Mid-range comfort",
+    "includes": "All experiences included"
+  },
+  "workSchedule": {
+    "timezone": "UTC+7",
+    "parisTime": "9am-5pm",
+    "bangkokTime": "2pm-10pm",
+    "morningFreedom": "Explore temples, markets & beaches before work"
+  }
+}

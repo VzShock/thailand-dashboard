@@ -1,0 +1,93 @@
+{
+  "title": "Your 56-Day Journey Through Thailand",
+  "phases": [
+    {
+      "number": 1,
+      "title": "Bangkok Arrival",
+      "dates": "Sep 3-10 (8 days)",
+      "details": [
+        "Visa processing & setup",
+        "Explore temples & markets",
+        "WeWork Sukhumvit base",
+        "Street food adventure begins!"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Ayutthaya & River Kwai",
+      "dates": "Sep 11-14 (4 days)",
+      "details": [
+        "Ancient capital exploration",
+        "WWII history & bridge",
+        "Floating market experience",
+        "Remote work from cafes"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Chiang Mai & Pai",
+      "dates": "Sep 15-24 (10 days)",
+      "details": [
+        "Mountain culture immersion",
+        "Elephant sanctuary visit",
+        "Doi Suthep temple",
+        "Pai hot springs & canyon"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Koh Samui Paradise",
+      "dates": "Sep 25-Oct 5 (11 days)",
+      "details": [
+        "Beachfront productivity",
+        "Island hopping tours",
+        "Couples spa treatments",
+        "Seafood feast nights"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Koh Phangan Adventure",
+      "dates": "Oct 6-12 (7 days)",
+      "details": [
+        "Full Moon Party (Oct 7)",
+        "Secret beaches discovery",
+        "Beachub coworking",
+        "Snorkeling & diving"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Koh Tao & Koh Nang Yuan",
+      "dates": "Oct 13-17 (5 days)",
+      "details": [
+        "Diving certification",
+        "Viewpoint hikes",
+        "Beach work sessions",
+        "Sunset yoga classes"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Krabi & Phi Phi",
+      "dates": "Oct 18-23 (6 days)",
+      "details": [
+        "Railay Beach climbing",
+        "Maya Bay day trip",
+        "Emerald Pool swim",
+        "Island sunset cruise"
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Bangkok Finale",
+      "dates": "Oct 24-28 (5 days)",
+      "details": [
+        "Shopping spree time",
+        "Final work wrap-up",
+        "Rooftop bar tour",
+        "Departure preparation"
+      ]
+    }
+  ]
+}

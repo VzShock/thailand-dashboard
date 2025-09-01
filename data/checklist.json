@@ -1,0 +1,97 @@
+{
+  "title": "Pre-Departure Checklist",
+  "sections": [
+    {
+      "title": "Documents & Admin",
+      "items": [
+        {
+          "id": "passport",
+          "label": "Check passport validity (must be valid until May 2026)"
+        },
+        {
+          "id": "insurance",
+          "label": "Purchase travel insurance (include adventure sports)"
+        },
+        {
+          "id": "copies",
+          "label": "Make copies of all documents + save to cloud"
+        },
+        {
+          "id": "notify-bank",
+          "label": "Notify bank of travel dates"
+        },
+        {
+          "id": "register",
+          "label": "Register on Irish Citizens Registration portal"
+        }
+      ]
+    },
+    {
+      "title": "Health & Vaccinations",
+      "items": [
+        {
+          "id": "hep-a",
+          "label": "Get Hepatitis A + Typhoid vaccine"
+        },
+        {
+          "id": "je-vaccine",
+          "label": "Complete Japanese Encephalitis series"
+        },
+        {
+          "id": "pharmacy",
+          "label": "Pack prescription meds + doctor's letter"
+        },
+        {
+          "id": "mosquito",
+          "label": "Buy mosquito repellent (DEET 30%+)"
+        }
+      ]
+    },
+    {
+      "title": "Tech & Work Setup",
+      "items": [
+        {
+          "id": "vpn",
+          "label": "Set up VPN subscription"
+        },
+        {
+          "id": "2fa",
+          "label": "Enable international roaming for 2FA"
+        },
+        {
+          "id": "backup",
+          "label": "Backup all work files to cloud"
+        },
+        {
+          "id": "adapter",
+          "label": "Pack universal power adapter"
+        }
+      ]
+    },
+    {
+      "title": "Final Week Tasks",
+      "items": [
+        {
+          "id": "accommodation",
+          "label": "Book first 3-5 nights accommodation"
+        },
+        {
+          "id": "sim",
+          "label": "Research SIM card options (AIS/True/DTAC)"
+        },
+        {
+          "id": "download",
+          "label": "Download offline Google Maps + Translate"
+        },
+        {
+          "id": "weigh",
+          "label": "Pack and weigh bags (25kg limit)"
+        },
+        {
+          "id": "bills",
+          "label": "Pay all bills in France"
+        }
+      ]
+    }
+  ]
+}

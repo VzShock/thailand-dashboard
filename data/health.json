@@ -1,0 +1,79 @@
+{
+  "vaccinations": {
+    "title": "Vaccination Timeline",
+    "description": "Schedule with your dad for maximum protection!",
+    "vaccines": [
+      {
+        "icon": "🛡️",
+        "name": "Hepatitis A + Typhoid (Combined)",
+        "timing": "📅 Get by: August 15 (2 weeks before travel)"
+      },
+      {
+        "icon": "🦟",
+        "name": "Japanese Encephalitis",
+        "timing": "📅 First dose: July 15 | Second dose: August 12"
+      },
+      {
+        "icon": "🐕",
+        "name": "Rabies Pre-exposure (Optional)",
+        "timing": "📅 3 doses: Day 0, 7, and 21-28 (Start by August 1)"
+      }
+    ]
+  },
+  "pharmacy": {
+    "title": "Thai Pharmacy Guide",
+    "description": "Common medications and Thai equivalents",
+    "categories": {
+      "painFever": {
+        "title": "Pain/Fever:",
+        "items": [
+          "Paracetamol: \"Sara\" (20 THB)",
+          "Ibuprofen: \"Brufen\" (30 THB)"
+        ]
+      },
+      "stomach": {
+        "title": "Stomach Issues:",
+        "items": [
+          "Imodium: \"Imodium\" (50 THB)",
+          "ORS: \"Oreda\" (10 THB/packet)"
+        ]
+      },
+      "allergies": {
+        "title": "Allergies:",
+        "items": [
+          "Antihistamine: \"Zyrtec\" (100 THB)",
+          "Nasal spray: \"Nasolin\" (80 THB)"
+        ]
+      },
+      "firstAid": {
+        "title": "First Aid:",
+        "items": [
+          "Betadine (60 THB)",
+          "Tiger Balm (50 THB)"
+        ]
+      }
+    }
+  },
+  "emergency": {
+    "contacts": [
+      {
+        "title": "🚨 Bangkok Emergency",
+        "number": "1669",
+        "description": "National Emergency Medical",
+        "details": "Bumrungrad Hospital\nTel: +66 2 066 8888\nInternational standard, English speaking"
+      },
+      {
+        "title": "🚨 Tourist Police",
+        "number": "1155",
+        "description": "English speaking, 24/7",
+        "details": "Also available via LINE app\nID: @touristpolice"
+      },
+      {
+        "title": "🚨 Island Medical",
+        "number": "Samui: +66 77 230 781",
+        "description": "Bangkok Hospital Samui",
+        "details": "Most islands have clinics\nSerious cases: helicopter to mainland"
+      }
+    ]
+  }
+}

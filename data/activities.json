@@ -1,0 +1,81 @@
+{
+  "title": "Couples Activities & Experiences",
+  "description": "Perfect experiences for Champido & Champipi! Morning activities pair perfectly with afternoon work.",
+  "categories": {
+    "bangkok": {
+      "title": "Bangkok Experiences",
+      "activities": [
+        {
+          "name": "🛺 Tuk-Tuk Food Tour",
+          "description": "3-hour evening adventure through hidden food spots",
+          "price": "1,500 THB/person",
+          "time": "Evening (6-9 PM)"
+        },
+        {
+          "name": "🛶 Khlong Canal Tour",
+          "description": "Morning boat ride through Bangkok's Venice-like canals",
+          "price": "800 THB/person",
+          "time": "Morning (9-11 AM)"
+        },
+        {
+          "name": "💑 Couples Thai Massage",
+          "description": "Traditional 2-hour massage at Wat Pho school",
+          "price": "500 THB/person",
+          "time": "Anytime"
+        },
+        {
+          "name": "🌃 Rooftop Bar Sunset",
+          "description": "Sky Bar at Lebua - from \"The Hangover 2\"",
+          "price": "400-600 THB/drink",
+          "time": "Sunset (6-8 PM)"
+        }
+      ]
+    },
+    "islands": {
+      "title": "Island Adventures",
+      "activities": [
+        {
+          "name": "🤿 Private Snorkeling Tour",
+          "description": "Half-day trip to Koh Tao's best spots",
+          "price": "2,500 THB/couple",
+          "time": "Morning (8 AM-1 PM)"
+        },
+        {
+          "name": "🌅 Sunrise Kayaking",
+          "description": "Paddle through mangroves at dawn",
+          "price": "1,200 THB/couple",
+          "time": "Early Morning (5:30-8 AM)"
+        },
+        {
+          "name": "🏝️ Private Beach Picnic",
+          "description": "Secluded beach setup with Thai tapas",
+          "price": "3,000 THB/couple",
+          "time": "Lunch (11 AM-2 PM)"
+        }
+      ]
+    },
+    "adventure": {
+      "title": "Adventure Activities",
+      "activities": [
+        {
+          "name": "🐘 Ethical Elephant Sanctuary",
+          "description": "Full day at Elephant Nature Park (Chiang Mai)",
+          "price": "2,500 THB/person",
+          "time": "Full Day (7 AM-5 PM)"
+        },
+        {
+          "name": "🏞️ Zip Lining Adventure",
+          "description": "Flight of the Gibbon - 5km course",
+          "price": "3,999 THB/person",
+          "time": "Morning (8 AM-12 PM)"
+        },
+        {
+          "name": "👨‍🍳 Private Cooking Class",
+          "description": "Learn 5 dishes in traditional home kitchen",
+          "price": "1,800 THB/person",
+          "time": "Morning (9 AM-1 PM)"
+        }
+      ]
+    }
+  }
+}
